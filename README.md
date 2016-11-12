@@ -1,10 +1,11 @@
 # Great Interview Questions
 
-| Networks      |
-|---------------|
-|       |       |
+Networks 
+| Question      | Answers     |
+|---------------|-------------|
+|               |             |
 
-| Systems |
+Systems
 |---------|
 | |
 | |
