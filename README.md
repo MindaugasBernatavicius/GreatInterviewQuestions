@@ -1,8 +1,8 @@
 # Great Interview Questions
 
 | Networks      |
-||
-||
+|               |
+|               |
 
 | Systems |
 |---------|
