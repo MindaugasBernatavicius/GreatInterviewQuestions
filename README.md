@@ -1,14 +1,18 @@
 # Great Interview Questions
 
 | Networks      |
-| ------------- |
+||
+||
 
-Systems
+| Systems |
+| -- |
+||
+||
 
-C
+| C
 
-Java
+| Java
 
-Android Development
+| Android Development
 
-QA/Testing
+| QA/Testing
