@@ -1,7 +1,8 @@
 # Great Interview Questions
 
-Networks 
-| Question      | Answers     |
+## Networks 
+
+| Question      | Answer      |
 |---------------|-------------|
 |               |             |
 
