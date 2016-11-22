@@ -17,8 +17,8 @@
 | 2 | | |
 
 ```
-An example of a HEX encoded public key fingerprint
-ed:58:09:fc:95:63:9b:99:30:77:55:de:68:0e:11:93
+vagrant@node1:~/.ssh$ ssh-keygen -lf public_git.key 
+4096 ed:58:09:fc:95:63:9b:99:30:77:55:de:68:0e:11:93  darbas.mindaugas@gmail.com (RSA)
 ```
 
 ### C/C++ 
