@@ -1,5 +1,12 @@
 # Great Interview Questions
 
+```
+TODO: 
+- a sample of simple questions that I or my collegues have gotten on the interviews or encountered in day-to-day tasks
+- aggregate them into a more open-ended questions, that take 3-5 minutes to answer and give candidates the ability to show their knowledge by getting into details
+
+```
+
 ### Networks 
 | Question      | Answer      |
 |---------------|-------------|
