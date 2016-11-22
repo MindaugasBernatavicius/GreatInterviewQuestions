@@ -21,6 +21,14 @@ vagrant@node1:~/.ssh$ ssh-keygen -lf public_git.key
 4096 ed:58:09:fc:95:63:9b:99:30:77:55:de:68:0e:11:93  darbas.mindaugas@gmail.com (RSA)
 ```
 
+```
+mindaugas@Mindaugas-Lenovo-Y50-70:~/.ssh/private_keys$ ssh-add node3.priv 
+Enter passphrase for node3.priv: 
+Identity added: node3.priv (node3.priv)
+mindaugas@Mindaugas-Lenovo-Y50-70:~/.ssh/private_keys$ ssh-add -l
+4096 70:33:6c:5d:30:38:42:f6:dc:54:1a:f2:03:05:84:cd node3.priv (RSA)
+```
+
 ### C/C++ 
 | Question      | Answer      |
 |---------------|-------------|
