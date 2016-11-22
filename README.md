@@ -6,9 +6,22 @@
 |               |             |
 
 ### Systems
-| Question      | Answer      |
-|---------------|-------------|
-|               |             |
+#### Linux
+```
+Q: Explain the difference between /etc/profile, ~/.bash_profile, etc. What are they used for, what is the orider of execution?
+A: 
+
+```
+#### Windows
+```
+
+
+```
+#### Cisco IOS
+```
+
+
+```
 
 ### Security
 | # |Question     | Answer      |
