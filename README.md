@@ -34,6 +34,12 @@ mindaugas@Mindaugas-Lenovo-Y50-70:~/.ssh/private_keys$ ssh-add -l
 |---------------|-------------|
 |               |             |
 
+### Git
+``` How sync branches from remote to local when remote branches were deleted?
+```
+``` Blah
+```
+
 ### Java
 | Question      | Answer      |
 |---------------|-------------|
